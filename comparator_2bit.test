@@ -1,0 +1,16 @@
+* Name of circuit:  /home/karthik/Desktop/DFT EL/Atalanta-master/data/comparator_2bit.bench
+* Primary inputs :
+  a1 a0 b1 b0 
+  
+* Primary outputs:
+  equal greater less 
+
+* Test patterns and fault free responses:
+
+   1: 1111 100
+   2: 0001 001
+   3: 1001 010
+   4: 0110 001
+   5: 0100 010
+   6: 1000 010
+   7: 1010 100

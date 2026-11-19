@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+logs/
+reports/
+results/
+atalanta_outputs/
+
+*.aux
+*.bbl
+*.blg
+*.log
+*.out

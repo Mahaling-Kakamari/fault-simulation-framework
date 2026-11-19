@@ -1,0 +1,14 @@
+* Name of circuit:  /home/karthik/Desktop/DFT EL/Atalanta-master/dft data/half_adder.bench
+* Primary inputs :
+  a b 
+  
+* Primary outputs:
+  sum carry 
+  
+
+* Test patterns and fault free responses:
+
+   1: 00 00
+   2: 11 01
+   3: 01 10
+   4: 10 10
